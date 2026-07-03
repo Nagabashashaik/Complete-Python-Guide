@@ -117,10 +117,3 @@ Computer Science Student | Cybersecurity Enthusiast
 | 38. Working with CSV | Click Me |
 | 39. Working with XML | Click Me |
 | 40. Date & Time | Click Me |
-
-| 80. Security Automation Scripts | Click Me |
-| 81. Log Analysis | Click Me |
-| 82. OSINT with Python | Click Me |
-| 83. Python for Cybersecurity Projects | Click Me |
-| 84. Final Capstone Projects | Click Me |
-| 85. Additional Learning Resources | Click Me |
