@@ -117,45 +117,7 @@ Computer Science Student | Cybersecurity Enthusiast
 | 38. Working with CSV | Click Me |
 | 39. Working with XML | Click Me |
 | 40. Date & Time | Click Me |
-| 41. Math Module | Click Me |
-| 42. Random Module | Click Me |
-| 43. Collections Module | Click Me |
-| 44. Itertools Module | Click Me |
-| 45. Functools Module | Click Me |
-| 46. OS Module | Click Me |
-| 47. Sys Module | Click Me |
-| 48. Pathlib Module | Click Me |
-| 49. Shutil Module | Click Me |
-| 50. Logging | Click Me |
-| 51. Argparse | Click Me |
-| 52. Subprocess | Click Me |
-| 53. Threading | Click Me |
-| 54. Multiprocessing | Click Me |
-| 55. Asyncio | Click Me |
-| 56. SQLite Database | Click Me |
-| 57. Hashing | Click Me |
-| 58. Secrets Module | Click Me |
-| 59. Unit Testing | Click Me |
-| 60. Debugging | Click Me |
-| 61. Type Hinting | Click Me |
-| 62. PEP 8 Style Guide | Click Me |
-| 63. Python Best Practices | Click Me |
-| 64. Mini Projects | Click Me |
-| 65. Interview Questions | Click Me |
-| 66. Cheat Sheet | Click Me |
-| 67. Web Scraping (BeautifulSoup) | Click Me |
-| 68. Selenium | Click Me |
-| 69. Requests Library | Click Me |
-| 70. REST APIs | Click Me |
-| 71. Socket Programming | Click Me |
-| 72. Networking with Python | Click Me |
-| 73. Scapy | Click Me |
-| 74. Paramiko (SSH Automation) | Click Me |
-| 75. Email Automation | Click Me |
-| 76. Excel Automation | Click Me |
-| 77. PDF Automation | Click Me |
-| 78. Image Processing | Click Me |
-| 79. GUI Development | Click Me |
+
 | 80. Security Automation Scripts | Click Me |
 | 81. Log Analysis | Click Me |
 | 82. OSINT with Python | Click Me |
